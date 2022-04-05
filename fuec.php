@@ -14,6 +14,7 @@ $row=$stmt->fetch(PDO::FETCH_ASSOC);
 
 ?>
 
+
 <html lang="es">
 
 <head>
@@ -41,7 +42,7 @@ include ('navbar.php');
 
 <div class="container">
 <div class="row">
-<h2 style="text-align:center">INICIO</h2>
+<h2 style="text-align:center">FUEC</h2>
 </div>
 
 

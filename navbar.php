@@ -38,7 +38,6 @@ $row=$stmt->fetch(PDO::FETCH_ASSOC);
 				<li class="active"><a href="inicio.php">INICIO</a></li>
 				<li><a href="servicios.php">SERVICIOS</a></li>
 				<li><a href="conductores.php">CONDUCTORES</a></li>
-				<li><a href="fuec.php">FUEC</a></li>
 				<li><a href="logout.php">SALIR</a></li>
 
 		</nav>

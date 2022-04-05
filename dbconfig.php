@@ -4,7 +4,7 @@
 
     $dsn = 'mysql:host=localhost;dbname=st';
     $username = 'root';
-    $password = 'efm&&$0432mgTG';
+    $password = '3QZK7k_.z7GSs]B5zgxjmr~2KUU%)hz<xFt_heGhgd5w4';
 
     try {
         $db = new PDO($dsn, $username, $password);
